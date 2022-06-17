@@ -20,20 +20,6 @@
     color: hsl(35, 76%, 53%);
   }
 
-  header {
-    padding: 30px;
-  }
-
-  a {
-    font-size: 25px;
-    text-decoration: none;
-    color: black;
-  }
-
-  a:hover {
-    color: hsl(35, 76%, 53%);
-  }
-
   h1 {
     font-size: xx-large;
     margin: 20px 0 0 0;
