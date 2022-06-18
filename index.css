@@ -110,9 +110,3 @@
    }
 
 }
-
-@media (max-width: 320px) {
-     .sedans, .suvs, .luxury {
-        width: 250px;
-   }
-}
